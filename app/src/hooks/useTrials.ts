@@ -10,7 +10,7 @@ export function useTrials(): LoadState {
   const [state, setState] = useState<LoadState>({ status: "loading" });
 
   useEffect(() => {
-    fetch("/data/trials.json")
+    fetch(`${import.meta.env.BASE_URL}data/trials.json`)
       .then((r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         return r.json() as Promise<Trial[]>;
