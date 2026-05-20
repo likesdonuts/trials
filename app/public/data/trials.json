@@ -1,0 +1,5377 @@
+[
+  {
+    "id": "sdny-0000",
+    "docketNumber": "24-CV-10010",
+    "caseName": "Corona V. El Crucero Restaurant Corp. Et Al",
+    "trialDate": "2026-05-18",
+    "trialTime": "09:30",
+    "court": {
+      "id": "sdny",
+      "name": "U.S. District Court \u2013 Southern District of New York",
+      "shortName": "S.D.N.Y.",
+      "type": "federal",
+      "state": "NY"
+    },
+    "eventType": "Jury Trial",
+    "judge": "McMahon",
+    "status": "scheduled",
+    "sourceFile": "SDNY Proceedings Calendar 5.18.2026.pdf"
+  },
+  {
+    "id": "phila-0000",
+    "docketNumber": "240803345",
+    "caseName": "Torres Vs Molina Etal",
+    "trialDate": "2026-05-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0001",
+    "docketNumber": "250503096",
+    "caseName": "Williams Etal Vs Wreckstop Towing And Recovery",
+    "trialDate": "2026-05-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0002",
+    "docketNumber": "250800508",
+    "caseName": "Forbes Etal Vs Ndubuch",
+    "trialDate": "2026-05-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0003",
+    "docketNumber": "251002577",
+    "caseName": "Corestates Group Llc Vs Mcintyre Etal",
+    "trialDate": "2026-05-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Rent, Lease & Ejectment",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0004",
+    "docketNumber": "251102060",
+    "caseName": "Cottom Vs Cromartie",
+    "trialDate": "2026-05-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Rent, Lease & Ejectment",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0005",
+    "docketNumber": "251102125",
+    "caseName": "Esa Pa Properties Llc Vs Dantzler Etal",
+    "trialDate": "2026-05-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Rent, Lease & Ejectment",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0006",
+    "docketNumber": "251102242",
+    "caseName": "Le Vs Unknown Occupants",
+    "trialDate": "2026-05-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Rent, Lease & Ejectment",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0007",
+    "docketNumber": "251102385",
+    "caseName": "Smallwood Vs Speed",
+    "trialDate": "2026-05-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Rent, Lease & Ejectment",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0008",
+    "docketNumber": "251102439",
+    "caseName": "Le Etal Vs Unknown Occupants",
+    "trialDate": "2026-05-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Rent, Lease & Ejectment",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0009",
+    "docketNumber": "251102619",
+    "caseName": "Terry Vs Castilloveita",
+    "trialDate": "2026-05-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Rent, Lease & Ejectment",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0010",
+    "docketNumber": "251102667",
+    "caseName": "Coates Vs Coates",
+    "trialDate": "2026-05-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Rent, Lease & Ejectment",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "daz-0000",
+    "docketNumber": "CV 23-02090",
+    "caseName": "Michael L Ruiz V Magellan Financial",
+    "trialDate": "2026-05-20",
+    "trialTime": "09:00",
+    "court": {
+      "id": "daz",
+      "name": "U.S. District Court \u2013 District of Arizona",
+      "shortName": "D. Ariz.",
+      "type": "federal",
+      "state": "AZ"
+    },
+    "eventType": "Jury Trial Day 2",
+    "judge": "Dominic W Lanza",
+    "status": "scheduled",
+    "sourceFile": "D Arizona 5_20_26.pdf"
+  },
+  {
+    "id": "dma_boston-0000",
+    "docketNumber": "1:17-CV-12311",
+    "caseName": "Maquet V. Abiomed Inc. Et Al",
+    "trialDate": "2026-05-20",
+    "trialTime": "08:15",
+    "court": {
+      "id": "dma-boston",
+      "name": "U.S. District Court \u2013 District of Massachusetts (Boston)",
+      "shortName": "D. Mass. (Boston)",
+      "type": "federal",
+      "state": "MA",
+      "division": "Boston"
+    },
+    "eventType": "Jury Trial Day 7",
+    "judge": "F. Dennis Saylor IV",
+    "status": "scheduled",
+    "sourceFile": "D Mass Boston 5_20_26.pdf"
+  },
+  {
+    "id": "dma_boston-0000",
+    "docketNumber": "1:17-CV-12311",
+    "caseName": "Maquet V. Abiomed Inc. Et Al",
+    "trialDate": "2026-05-21",
+    "trialTime": "08:15",
+    "court": {
+      "id": "dma-boston",
+      "name": "U.S. District Court \u2013 District of Massachusetts (Boston)",
+      "shortName": "D. Mass. (Boston)",
+      "type": "federal",
+      "state": "MA",
+      "division": "Boston"
+    },
+    "eventType": "Jury Trial Day 8",
+    "judge": "F. Dennis Saylor IV",
+    "status": "scheduled",
+    "sourceFile": "D Mass Boston 5_21_26.pdf"
+  },
+  {
+    "id": "phila-0011",
+    "docketNumber": "220902934",
+    "caseName": "Graham Vs Cec Entertainment Inc. Etal",
+    "trialDate": "2026-05-22",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0012",
+    "docketNumber": "240501999",
+    "caseName": "Firstbank Vs Arrington, Madeline, Estate Of",
+    "trialDate": "2026-05-22",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Mortgage Foreclosure",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0013",
+    "docketNumber": "230900800",
+    "caseName": "Orellana Etal Vs The Hospital Of The University Of",
+    "trialDate": "2026-05-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0014",
+    "docketNumber": "240201219",
+    "caseName": "Street Etal Vs Anthony Etal",
+    "trialDate": "2026-05-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0015",
+    "docketNumber": "240700833",
+    "caseName": "Beer Vs Home Genius Exteriors Etal",
+    "trialDate": "2026-05-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0016",
+    "docketNumber": "240702524",
+    "caseName": "Holley Vs Philadelphia Housing Authority",
+    "trialDate": "2026-05-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0017",
+    "docketNumber": "240800243",
+    "caseName": "Lofton Vs Southeastern Pennsylvania Transportation",
+    "trialDate": "2026-05-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0018",
+    "docketNumber": "241002885",
+    "caseName": "Bell Vs The Giant Company, Llc Etal",
+    "trialDate": "2026-05-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0019",
+    "docketNumber": "250401844",
+    "caseName": "Moore Vs Southeastern Pennsylvania Transportation",
+    "trialDate": "2026-05-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0020",
+    "docketNumber": "240302364",
+    "caseName": "Diana Vs Osorio Etal",
+    "trialDate": "2026-05-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0021",
+    "docketNumber": "240400979",
+    "caseName": "Makdji Etal Vs Olubajo Etal",
+    "trialDate": "2026-05-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0022",
+    "docketNumber": "241003720",
+    "caseName": "Tiger Funding Llc Vs Tache",
+    "trialDate": "2026-05-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Arbitration Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0023",
+    "docketNumber": "241101446",
+    "caseName": "Cavalry Spv I, Llc Vs Mccain",
+    "trialDate": "2026-05-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Arbitration Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0024",
+    "docketNumber": "250102755",
+    "caseName": "Bradford Etal Vs Bradford Etal",
+    "trialDate": "2026-05-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "sf-0001",
+    "docketNumber": "CGC-21-595848",
+    "caseName": "Vanessa Oliveira Vs. Marriot International, Inc. Et Al",
+    "trialDate": "2026-05-26",
+    "trialTime": "10:30",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "502",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0002",
+    "docketNumber": "CGC-23-277177",
+    "caseName": "Gary Howdyshell Vs. Pacific Coast Building Products, Inc. Et Al",
+    "trialDate": "2026-05-26",
+    "trialTime": "09:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "502",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0003",
+    "docketNumber": "CGC-23-607240",
+    "caseName": "David Calef Et Al Vs. Unilever United States, Inc. Et Al",
+    "trialDate": "2026-05-26",
+    "trialTime": "09:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0004",
+    "docketNumber": "CGC-25-277367",
+    "caseName": "Barry Silver Et Al Vs. General Electric Company Et Al",
+    "trialDate": "2026-05-26",
+    "trialTime": "16:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "502",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0005",
+    "docketNumber": "CGC-25-631959",
+    "caseName": "Jesus Garibay Vs. Golden State Lumber, Inc. Et Al",
+    "trialDate": "2026-05-26",
+    "trialTime": "11:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0006",
+    "docketNumber": "CGC-26-277406",
+    "caseName": "Donna L. Dillon Et Al Vs. Chattem Inc. Et Al",
+    "trialDate": "2026-05-26",
+    "trialTime": "09:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "502",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "washoe-0013",
+    "docketNumber": "CV24-01719",
+    "caseName": "King David Vs Jonathon Gomez Valdivia Etal",
+    "trialDate": "2026-05-26",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Tammy Riggs",
+    "department": "3",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0014",
+    "docketNumber": "CV24-01234",
+    "caseName": "Robert W. Herman Vs David C. Hopper",
+    "trialDate": "2026-05-26",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Tammy Riggs",
+    "department": "3",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0037",
+    "docketNumber": "CV24-00730",
+    "caseName": "Nathan Braye Etal Vs Joshua Allen Holm",
+    "trialDate": "2026-05-26",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Egan Walker",
+    "department": "7",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0062",
+    "docketNumber": "CV23-01444",
+    "caseName": "Noelle Roso Vs Samuel Chacon, Md, Et Al",
+    "trialDate": "2026-05-26",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Scott Freeman",
+    "department": "9",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0025",
+    "docketNumber": "231002704",
+    "caseName": "Norman Vs City Of Philadelphia Etal",
+    "trialDate": "2026-05-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0026",
+    "docketNumber": "240400087",
+    "caseName": "Hampton Vs Furniture Mecca, Inc. Etal",
+    "trialDate": "2026-05-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0027",
+    "docketNumber": "240803186",
+    "caseName": "Hampton Vs Ak Trading, Inc.",
+    "trialDate": "2026-05-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0028",
+    "docketNumber": "240803628",
+    "caseName": "Norman Vs Philadelphia Gas Works",
+    "trialDate": "2026-05-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0029",
+    "docketNumber": "250201470",
+    "caseName": "Norman Vs General Asphalt Paving Co. Of Philadelph",
+    "trialDate": "2026-05-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0030",
+    "docketNumber": "250401182",
+    "caseName": "Obx 2023-Nqm2 Trust Vs Lilley Investment Group",
+    "trialDate": "2026-05-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Mortgage Foreclosure",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0031",
+    "docketNumber": "250403822",
+    "caseName": "Ally Bank Vs Dde Motors Llc",
+    "trialDate": "2026-05-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0032",
+    "docketNumber": "231102057",
+    "caseName": "322 On North Broad, Llc, Successor In Interest To",
+    "trialDate": "2026-05-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0033",
+    "docketNumber": "241200709",
+    "caseName": "Billows Electric Supply Company, Inc. Vs Allen'S L",
+    "trialDate": "2026-05-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Expedited, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "sf-0007",
+    "docketNumber": "CGC-21-591364",
+    "caseName": "Justin Spilman Et Al Vs. The Salvation Army Et Al",
+    "trialDate": "2026-05-27",
+    "trialTime": "11:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0008",
+    "docketNumber": "CGC-24-615401",
+    "caseName": "The People Of The State Of California, By And Vs. Workforce As A Service, Inc., Doing Business As Et Al",
+    "trialDate": "2026-05-27",
+    "trialTime": "09:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "washoe-0077",
+    "docketNumber": "CV24-02046",
+    "caseName": "Sharon Koepnick Vs Housing Authority Reno",
+    "trialDate": "2026-05-27",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "David Hardy",
+    "department": "15",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0034",
+    "docketNumber": "241000153",
+    "caseName": "Bank Of America, N.A. Vs De Camilo",
+    "trialDate": "2026-05-28",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Arbitration Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "sf-0009",
+    "docketNumber": "CGC-23-606082",
+    "caseName": "Sameer Bhadouria Et Al Vs. Msasa Properites, Llc, Et Al",
+    "trialDate": "2026-05-28",
+    "trialTime": "09:30",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "305",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0010",
+    "docketNumber": "CGC-23-610333",
+    "caseName": "People Of The State Of California, Acting By And Vs. Incomm Financial Services, Inc. Et Al",
+    "trialDate": "2026-05-28",
+    "trialTime": "11:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0011",
+    "docketNumber": "CGC-25-624457",
+    "caseName": "Benjamin Glenn Et Al Vs. Mixpanel, Inc.",
+    "trialDate": "2026-05-28",
+    "trialTime": "11:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0012",
+    "docketNumber": "CGC-25-628850",
+    "caseName": "Edd King Et Al Vs. National General Insurance Company Et Al",
+    "trialDate": "2026-05-28",
+    "trialTime": "09:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0013",
+    "docketNumber": "CGC-26-635523",
+    "caseName": "Mosima Elangwe Namata Et Al Vs. National General Insurance Company Et Al",
+    "trialDate": "2026-05-28",
+    "trialTime": "09:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "washoe-0066",
+    "docketNumber": "CV25-00150",
+    "caseName": "Freeform Future Vs Sundance Digital Signal",
+    "trialDate": "2026-05-28",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Kathleen Sigurdson",
+    "department": "10",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0035",
+    "docketNumber": "240300461",
+    "caseName": "Premier Building Restoration, Inc. Vs Sbg Manageme",
+    "trialDate": "2026-05-29",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0036",
+    "docketNumber": "240700195",
+    "caseName": "Dymor Construction Etal Vs Li Builders Group",
+    "trialDate": "2026-05-29",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "sf-0014",
+    "docketNumber": "CGC-21-591201",
+    "caseName": "Armanino Family Llc, Vs. Paul Anthony Ballestrasse Et Al",
+    "trialDate": "2026-05-29",
+    "trialTime": "10:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "318",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0015",
+    "docketNumber": "CGC-22-602448",
+    "caseName": "Gary Shea Vs. Community Housing Partnership Et Al",
+    "trialDate": "2026-05-29",
+    "trialTime": "09:30",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0016",
+    "docketNumber": "CGC-24-614454",
+    "caseName": "Via Licensing Alliance Llc Vs. Hp Inc.",
+    "trialDate": "2026-05-29",
+    "trialTime": "09:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "502",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0017",
+    "docketNumber": "CGC-24-617326",
+    "caseName": "Kurt Abron Et Al Vs. St. Anthony Foundation Et Al",
+    "trialDate": "2026-05-29",
+    "trialTime": "13:30",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "phila-0037",
+    "docketNumber": "210400637",
+    "caseName": "Atterbury Vs Earn Company Etal",
+    "trialDate": "2026-06-01",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Class Action",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0038",
+    "docketNumber": "221000018",
+    "caseName": "Faircloth Etal Vs Jackson Etal",
+    "trialDate": "2026-06-01",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0039",
+    "docketNumber": "230100035",
+    "caseName": "Giordano Vs The Rothman Institute Etal",
+    "trialDate": "2026-06-01",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0040",
+    "docketNumber": "231202665",
+    "caseName": "Oberholtzer Vs Sautter Crane Rental, Inc. Etal",
+    "trialDate": "2026-06-01",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0041",
+    "docketNumber": "240600842",
+    "caseName": "Romero Etal Vs Rudi Construction, Inc. Etal",
+    "trialDate": "2026-06-01",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0042",
+    "docketNumber": "250200831",
+    "caseName": "Stewart Vs Richman Etal",
+    "trialDate": "2026-06-01",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0043",
+    "docketNumber": "251101147",
+    "caseName": "Watson Vs Gonzalez Carcamo Etal",
+    "trialDate": "2026-06-01",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0044",
+    "docketNumber": "171003790",
+    "caseName": "Lakeview Loan Servicing Vs Heirs Of Mitchell",
+    "trialDate": "2026-06-01",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Mortgage Foreclosure",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0045",
+    "docketNumber": "220200334",
+    "caseName": "Thackray Vs Thackray Crane Rentals, Inc. Etal",
+    "trialDate": "2026-06-01",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0046",
+    "docketNumber": "220400357",
+    "caseName": "Yaffa Company, Inc. Vs Palatnik Etal",
+    "trialDate": "2026-06-01",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "sf-0018",
+    "docketNumber": "CGC-23-604370",
+    "caseName": "Talia Kennedy Vs. Meta Platforms, Inc. Et Al",
+    "trialDate": "2026-06-01",
+    "trialTime": "09:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "305",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0019",
+    "docketNumber": "CGC-24-614802",
+    "caseName": "John Doe Vs. Cathedral School For Boys Et Al",
+    "trialDate": "2026-06-01",
+    "trialTime": "09:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "318",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0020",
+    "docketNumber": "CPF-26-519501",
+    "caseName": "Neighborhoods United Sf Et Al Vs. City And County Of San Francisco Et Al (Ceqa Case)",
+    "trialDate": "2026-06-01",
+    "trialTime": "13:30",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0021",
+    "docketNumber": "CPF-26-519569",
+    "caseName": "California Housing Defense Fund Et Al Vs. City And County Of San Francisco",
+    "trialDate": "2026-06-01",
+    "trialTime": "13:30",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "washoe-0003",
+    "docketNumber": "CV24-02811",
+    "caseName": "C. Monreal Salazar Vs Matthew T. Antone, Etal",
+    "trialDate": "2026-06-01",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Drakulich",
+    "department": "1",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0004",
+    "docketNumber": "CV24-01570",
+    "caseName": "Glenn David Menist Vs John Andrew Lis, Et Al",
+    "trialDate": "2026-06-01",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Drakulich",
+    "department": "1",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0023",
+    "docketNumber": "CV25-00637",
+    "caseName": "All Eagle Llc Vs Saronic Investments Llc",
+    "trialDate": "2026-06-01",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Connie Steinheimer",
+    "department": "4",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0024",
+    "docketNumber": "CV25-00302",
+    "caseName": "Estefany Lopez-Filorio Vs Jirma Centeno De Ruiz (4",
+    "trialDate": "2026-06-01",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Connie Steinheimer",
+    "department": "4",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0025",
+    "docketNumber": "CV24-02146",
+    "caseName": "Roshelle Chavez Vs Olive Garden Hldgs Llc",
+    "trialDate": "2026-06-01",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Connie Steinheimer",
+    "department": "4",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0026",
+    "docketNumber": "CV24-00321",
+    "caseName": "Jamie N. Woods Vs Nicole Violett, Et Al",
+    "trialDate": "2026-06-01",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Connie Steinheimer",
+    "department": "4",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0038",
+    "docketNumber": "CV24-02565",
+    "caseName": "Alejandra Ayala-Ayala Vs Kyle S. Craig Etal",
+    "trialDate": "2026-06-01",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Egan Walker",
+    "department": "7",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0039",
+    "docketNumber": "CV23-02047",
+    "caseName": "Gordon Pasley Vs Jacob Christensen, Et Al",
+    "trialDate": "2026-06-01",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Egan Walker",
+    "department": "7",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0078",
+    "docketNumber": "CV23-01693",
+    "caseName": "Uplift, Inc. Vs Brian Barth (B15)",
+    "trialDate": "2026-06-01",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "David Hardy",
+    "department": "15",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0079",
+    "docketNumber": "CV23-01409",
+    "caseName": "Haley Fena Vs Lolanda Edsall, M.D. Et Al",
+    "trialDate": "2026-06-01",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "David Hardy",
+    "department": "15",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0047",
+    "docketNumber": "240703157",
+    "caseName": "Pickett Vs United Auto Collision, Inc",
+    "trialDate": "2026-06-02",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Arbitration Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0048",
+    "docketNumber": "250403178",
+    "caseName": "Beltran-Walsh Etal Vs Mercantile Philadelphia Llc",
+    "trialDate": "2026-06-02",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0049",
+    "docketNumber": "250403219",
+    "caseName": "Levin Etal Vs Mercantile Philadelphia Llc",
+    "trialDate": "2026-06-02",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0050",
+    "docketNumber": "250701187",
+    "caseName": "In Re: Appeal Of Walton, Daryl",
+    "trialDate": "2026-06-02",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Agency Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0051",
+    "docketNumber": "250702981",
+    "caseName": "In Re: Appeal Of Lipski, Marcin",
+    "trialDate": "2026-06-02",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Agency Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0052",
+    "docketNumber": "250802155",
+    "caseName": "In Re: Appeal Of Johnston Jr George",
+    "trialDate": "2026-06-02",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Agency Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "sf-0022",
+    "docketNumber": "CGC-22-603379",
+    "caseName": "Ha Nguyen Vs. Bloomingdale'S, Llc,",
+    "trialDate": "2026-06-02",
+    "trialTime": "10:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0023",
+    "docketNumber": "CGC-25-627217",
+    "caseName": "Katrina Kidd Vs. Blue Diamond Growers",
+    "trialDate": "2026-06-02",
+    "trialTime": "09:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0024",
+    "docketNumber": "CGC-25-630503",
+    "caseName": "Hayden Miller Vs. Asi Foods Inc Et Al",
+    "trialDate": "2026-06-02",
+    "trialTime": "10:00",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "613",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "sf-0025",
+    "docketNumber": "CPF-20-517278",
+    "caseName": "Foundation Aiding The Elderly Vs. Caifornia Department Of Public Health Et Al",
+    "trialDate": "2026-06-02",
+    "trialTime": "09:30",
+    "court": {
+      "id": "sf-superior",
+      "name": "San Francisco Superior Court",
+      "shortName": "S.F. Superior",
+      "type": "state",
+      "state": "CA"
+    },
+    "eventType": "Trial",
+    "department": "502",
+    "status": "scheduled",
+    "sourceFile": "San Francisco Superior Court.xlsx"
+  },
+  {
+    "id": "washoe-0035",
+    "docketNumber": "CV24-02311",
+    "caseName": "Wild Island Vs Christine Etcheverry, Et Al",
+    "trialDate": "2026-06-02",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Lynne Jones",
+    "department": "6",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0063",
+    "docketNumber": "CV24-01179",
+    "caseName": "Victoria O'Toole Vs Mariah Fritchie",
+    "trialDate": "2026-06-02",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Scott Freeman",
+    "department": "9",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0053",
+    "docketNumber": "240501226",
+    "caseName": "Colon Vs Mamacia Grocery, Inc. Etal",
+    "trialDate": "2026-06-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0054",
+    "docketNumber": "250403180",
+    "caseName": "Patton Vs Mercantile Philadelphia Llc",
+    "trialDate": "2026-06-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0055",
+    "docketNumber": "250403230",
+    "caseName": "Greene Etal Vs Mercantile Philadelphia Llc",
+    "trialDate": "2026-06-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "washoe-0067",
+    "docketNumber": "CV25-02063",
+    "caseName": "Rtc Of Wc Vs Gcs Multi Llc Etal",
+    "trialDate": "2026-06-03",
+    "trialTime": "12:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Kathleen Sigurdson",
+    "department": "10",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0056",
+    "docketNumber": "200801359",
+    "caseName": "Zeon Real Estate, Llc Vs Perry  Etal",
+    "trialDate": "2026-06-08",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0057",
+    "docketNumber": "230101004",
+    "caseName": "Ramos Etal Vs Lam Etal",
+    "trialDate": "2026-06-08",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0058",
+    "docketNumber": "230302088",
+    "caseName": "Walheim Etal Vs Midlantic Urology Etal",
+    "trialDate": "2026-06-08",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0059",
+    "docketNumber": "230501173",
+    "caseName": "Jones Etal Vs Oakwood Healthcare Llc Etal",
+    "trialDate": "2026-06-08",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0060",
+    "docketNumber": "230601403",
+    "caseName": "Kelly Etal Vs Barnes & Noble, Inc. Etal",
+    "trialDate": "2026-06-08",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0061",
+    "docketNumber": "230801198",
+    "caseName": "Ellenbogen Etal Vs Main Line Health, Inc. Etal",
+    "trialDate": "2026-06-08",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0062",
+    "docketNumber": "231003058",
+    "caseName": "Deluca Etal Vs Somers Etal",
+    "trialDate": "2026-06-08",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0063",
+    "docketNumber": "240201941",
+    "caseName": "C, A Minor Etal Vs Artsana Usa, Inc.",
+    "trialDate": "2026-06-08",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0064",
+    "docketNumber": "250503688",
+    "caseName": "Alliance Funding Group Vs Top Spot Dumping, Llc Et",
+    "trialDate": "2026-06-08",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "washoe-0005",
+    "docketNumber": "CV25-00564",
+    "caseName": "Pamela Elbon Vs Warren Rund",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Kathleen Drakulich",
+    "department": "1",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0006",
+    "docketNumber": "CV24-02300",
+    "caseName": "Brian Mulhern Vs Jarrett Tenpenny",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Drakulich",
+    "department": "1",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0007",
+    "docketNumber": "CV24-00508",
+    "caseName": "Priscilla Cyphers Etal Vs Dawn Transport Etal",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Drakulich",
+    "department": "1",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0015",
+    "docketNumber": "CV24-00459",
+    "caseName": "Luis Saucedo-Gonzalez Vs Brendan Obrien Etal",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Tammy Riggs",
+    "department": "3",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0027",
+    "docketNumber": "CV25-00437",
+    "caseName": "Danielle Brooks Vs Kirpal Singh, Et Al",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Connie Steinheimer",
+    "department": "4",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0028",
+    "docketNumber": "CV24-01170",
+    "caseName": "Don Mize, Et Al Vs F&B, Inc., Et Al",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Connie Steinheimer",
+    "department": "4",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0029",
+    "docketNumber": "CV24-00380",
+    "caseName": "Cons: D'Andrea Phoenix Acq. Vs Jmj Golf Group",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Connie Steinheimer",
+    "department": "4",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0047",
+    "docketNumber": "CV24-00457",
+    "caseName": "Bryan Eidem Vs Renown S. Meadows Med Ctr",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0048",
+    "docketNumber": "CV24-02573",
+    "caseName": "Golightly & Vannah Pllc Vs Wayne Walker Etal",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0049",
+    "docketNumber": "CV24-02337",
+    "caseName": "Michael L. Mills Vs Reno Ortho Properties",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0050",
+    "docketNumber": "CV24-00955",
+    "caseName": "Christina Winters-Gerber Vs Phs-Reno, Et Al",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0051",
+    "docketNumber": "CV23-01152",
+    "caseName": "Alisa & Justin Wike Vs Dale L. White, Et Al",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0068",
+    "docketNumber": "CV24-01579",
+    "caseName": "Kalynn Valdivia Vs Reno Rock Transp Llc Etal",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Sigurdson",
+    "department": "10",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0069",
+    "docketNumber": "CV24-00522",
+    "caseName": "Jennifer Hickerson Vs Uprise, Llc",
+    "trialDate": "2026-06-08",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Kathleen Sigurdson",
+    "department": "10",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0065",
+    "docketNumber": "230502772",
+    "caseName": "Echo Philly Properties Vs Mas General Contractors",
+    "trialDate": "2026-06-09",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0066",
+    "docketNumber": "250501585",
+    "caseName": "Messer Vs Gelormini Etal",
+    "trialDate": "2026-06-09",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0067",
+    "docketNumber": "251103141",
+    "caseName": "Rebuilding Blocks Vs Williams Etal",
+    "trialDate": "2026-06-09",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Rent, Lease & Ejectment",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0068",
+    "docketNumber": "250800723",
+    "caseName": "Webb, In His Capacity As Agent For Dorris W. Groet",
+    "trialDate": "2026-06-09",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0069",
+    "docketNumber": "260100382",
+    "caseName": "Allspec Construction, Inc. Vs Cqsa Construction Ll",
+    "trialDate": "2026-06-09",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "washoe-0064",
+    "docketNumber": "CV24-01833",
+    "caseName": "William Walker Vs Stephen Moss, Esq. Et Al",
+    "trialDate": "2026-06-09",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Scott Freeman",
+    "department": "9",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0070",
+    "docketNumber": "241000300",
+    "caseName": "5607 Whitby Llc Vs Jones Etal",
+    "trialDate": "2026-06-10",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0071",
+    "docketNumber": "250401700",
+    "caseName": "Jones Etal Vs 5607 Whitby Llc Etal",
+    "trialDate": "2026-06-10",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0072",
+    "docketNumber": "250500266",
+    "caseName": "Brown Vs Irvin Et Al",
+    "trialDate": "2026-06-11",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0073",
+    "docketNumber": "190702926",
+    "caseName": "Lerner Md Vs Fifteen Hundred Locust Lp Etal",
+    "trialDate": "2026-06-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0074",
+    "docketNumber": "210600873",
+    "caseName": "Crew Vs Cliveden Operating, Llc Etal",
+    "trialDate": "2026-06-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0075",
+    "docketNumber": "220100618",
+    "caseName": "Crew Vs Mima Healthcare, Llc Etal",
+    "trialDate": "2026-06-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0076",
+    "docketNumber": "230301465",
+    "caseName": "Williams Vs Kearsley Operator Lp",
+    "trialDate": "2026-06-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0077",
+    "docketNumber": "231000571",
+    "caseName": "Adams Vs Cozen  O'Connor Etal",
+    "trialDate": "2026-06-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0078",
+    "docketNumber": "231003202",
+    "caseName": "Estate Of Terell Douglas, Deceased Etal Vs Penn Me",
+    "trialDate": "2026-06-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0079",
+    "docketNumber": "231202140",
+    "caseName": "Westfield Insurance Company Vs Ter-Pro, Llc Doing",
+    "trialDate": "2026-06-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0080",
+    "docketNumber": "240702535",
+    "caseName": "Hyman-Osaghae Vs Hiroi Etal",
+    "trialDate": "2026-06-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0081",
+    "docketNumber": "250103410",
+    "caseName": "Bini Etal Vs Greenwood Racing, Inc. Etal",
+    "trialDate": "2026-06-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0082",
+    "docketNumber": "250400713",
+    "caseName": "Rivera Vs Dorado Etal",
+    "trialDate": "2026-06-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0083",
+    "docketNumber": "250503581",
+    "caseName": "Bain Vs Vega Etal",
+    "trialDate": "2026-06-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0084",
+    "docketNumber": "250602465",
+    "caseName": "Tashman Vs Tashman",
+    "trialDate": "2026-06-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0085",
+    "docketNumber": "240401174",
+    "caseName": "Breit Ne Roosevelt Owner, Llc Vs Model?S Ink Hair",
+    "trialDate": "2026-06-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Expedited, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "washoe-0001",
+    "docketNumber": "CV24-01338",
+    "caseName": "David Garese Vs Nar Bustamonte Etal (Stp)",
+    "trialDate": "2026-06-15",
+    "trialTime": "08:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Short Jury Trial",
+    "judge": "Connie Steinheimer",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0016",
+    "docketNumber": "CV23-01261",
+    "caseName": "Cons: Sharon Lyn Mellin Vs Hard Rock Hotel",
+    "trialDate": "2026-06-15",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Tammy Riggs",
+    "department": "3",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0017",
+    "docketNumber": "CV25-00114",
+    "caseName": "David Dunning Vs Fallen Leaf Ho Assoc",
+    "trialDate": "2026-06-15",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Tammy Riggs",
+    "department": "3",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0030",
+    "docketNumber": "CV22-00783",
+    "caseName": "Courtney Kertson Etal Vs S. Chacon Md Etal",
+    "trialDate": "2026-06-15",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Connie Steinheimer",
+    "department": "4",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0040",
+    "docketNumber": "CV25-00769",
+    "caseName": "Mello Properties Llc Vs Snowbird Xiv, Llc",
+    "trialDate": "2026-06-15",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Egan Walker",
+    "department": "7",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0086",
+    "docketNumber": "230603005",
+    "caseName": "Yakoup Etal Vs Yessa Etal",
+    "trialDate": "2026-06-16",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0087",
+    "docketNumber": "240202140",
+    "caseName": "Moss Vs Bonfligio",
+    "trialDate": "2026-06-16",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0088",
+    "docketNumber": "241201120",
+    "caseName": "U.S. Bank National Association Vs Rolland",
+    "trialDate": "2026-06-16",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Arbitration Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0089",
+    "docketNumber": "241201738",
+    "caseName": "Curbelo Etal Vs 7500 Algon Avenue Associates, Lp",
+    "trialDate": "2026-06-16",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Arbitration Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0090",
+    "docketNumber": "250503139",
+    "caseName": "Chung Etal Vs Sylla",
+    "trialDate": "2026-06-16",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0091",
+    "docketNumber": "260101496",
+    "caseName": "Moss Vs Bonfiglio Etal",
+    "trialDate": "2026-06-16",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "washoe-0036",
+    "docketNumber": "CV24-02440",
+    "caseName": "George Lorton Vs Anastasia Bielser Etal",
+    "trialDate": "2026-06-16",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Lynne Jones",
+    "department": "6",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0092",
+    "docketNumber": "240403017",
+    "caseName": "Lowell Etal Vs M.J. Rebar, Inc. Etal",
+    "trialDate": "2026-06-18",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0093",
+    "docketNumber": "250702090",
+    "caseName": "Lowell Etal Vs M.J. Rebar, Inc. Etal",
+    "trialDate": "2026-06-18",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0094",
+    "docketNumber": "250501202",
+    "caseName": "Dupree Etal Vs Ocf Realty, Llc",
+    "trialDate": "2026-06-18",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Arbitration Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0095",
+    "docketNumber": "200101462",
+    "caseName": "Lowery Vs United States Steel Corporation Etal",
+    "trialDate": "2026-06-22",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0096",
+    "docketNumber": "221100129",
+    "caseName": "Pavano Vs Morrow Etal",
+    "trialDate": "2026-06-22",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0097",
+    "docketNumber": "230501620",
+    "caseName": "Mack Etal Vs Kearsley Operator Lp Etal",
+    "trialDate": "2026-06-22",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0098",
+    "docketNumber": "230600513",
+    "caseName": "Stokes Vs Target Building Construction, Inc. Etal",
+    "trialDate": "2026-06-22",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0099",
+    "docketNumber": "230701286",
+    "caseName": "James Vs Hospital Of The University Of Pennsylvani",
+    "trialDate": "2026-06-22",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0100",
+    "docketNumber": "231102178",
+    "caseName": "Conaghan Vs Abraham Etal",
+    "trialDate": "2026-06-22",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0101",
+    "docketNumber": "241000637",
+    "caseName": "Little Free Thinkers Childcare, Inc. Vs James Etal",
+    "trialDate": "2026-06-22",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Expedited, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0102",
+    "docketNumber": "250203070",
+    "caseName": "Coppola Vs Zhang Etal",
+    "trialDate": "2026-06-22",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0103",
+    "docketNumber": "240802898",
+    "caseName": "Headway Capital Llc Vs Tjab90 Llc Etal",
+    "trialDate": "2026-06-22",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0104",
+    "docketNumber": "250203853",
+    "caseName": "Stroman Jr Vs Stroman",
+    "trialDate": "2026-06-22",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0105",
+    "docketNumber": "250601061",
+    "caseName": "Jikia Vs Jikia Etal",
+    "trialDate": "2026-06-22",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "washoe-0002",
+    "docketNumber": "CV25-00216",
+    "caseName": "Darrin Phillips Vs Reno Cab Co. Etal (Stp)",
+    "trialDate": "2026-06-22",
+    "trialTime": "08:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Short Jury Trial",
+    "judge": "Connie Steinheimer",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0018",
+    "docketNumber": "CV25-01059",
+    "caseName": "First In, Llc Vs Bobby Stores, Inc., Etal",
+    "trialDate": "2026-06-22",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Tammy Riggs",
+    "department": "3",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0031",
+    "docketNumber": "CV25-00600",
+    "caseName": "Slakey Brothers Inc Vs John Standley Etal",
+    "trialDate": "2026-06-22",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Connie Steinheimer",
+    "department": "4",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0032",
+    "docketNumber": "CV24-02109",
+    "caseName": "Zoe Griffiths Vs Carson Tahoe Reg Hc",
+    "trialDate": "2026-06-22",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Connie Steinheimer",
+    "department": "4",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0033",
+    "docketNumber": "CV23-00826",
+    "caseName": "Kimberly Houston Vs City Of Sparks, Et Al",
+    "trialDate": "2026-06-22",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Connie Steinheimer",
+    "department": "4",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0034",
+    "docketNumber": "CV23-00444",
+    "caseName": "Cieo Llc Vs Foothill Commerce Ctr Maint, Et Al",
+    "trialDate": "2026-06-22",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Connie Steinheimer",
+    "department": "4",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0041",
+    "docketNumber": "CV25-00962",
+    "caseName": "Judith Harvey, Trste Vs 580 South Ind. Etal",
+    "trialDate": "2026-06-22",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Egan Walker",
+    "department": "7",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0042",
+    "docketNumber": "CV20-00867",
+    "caseName": "William Lawson Vs Edward Morse Jr Etal",
+    "trialDate": "2026-06-22",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Egan Walker",
+    "department": "7",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0052",
+    "docketNumber": "CV23-01477",
+    "caseName": "Dennis Humbert Etal Vs Lars Webb, M.D. Etal",
+    "trialDate": "2026-06-22",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0053",
+    "docketNumber": "CV25-00240",
+    "caseName": "Cleanrite Inc. Vs John Michael Mahan",
+    "trialDate": "2026-06-22",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0054",
+    "docketNumber": "CV23-01910",
+    "caseName": "Cheryl Cobb, Et Al Vs Greyhound Lines, Inc.",
+    "trialDate": "2026-06-22",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0055",
+    "docketNumber": "CV23-01653",
+    "caseName": "H. & A. Rankow Vs St. Farm Fire & Cas. Co.",
+    "trialDate": "2026-06-22",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0070",
+    "docketNumber": "CV24-00155",
+    "caseName": "A. Slusarski Etal Vs Aspen Earthworks Etal",
+    "trialDate": "2026-06-22",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Sigurdson",
+    "department": "10",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0080",
+    "docketNumber": "CV23-01699",
+    "caseName": "Darya Shahvaran, Etal Vs Rd Harris Mgmt, Etal (15)",
+    "trialDate": "2026-06-22",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "David Hardy",
+    "department": "15",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0106",
+    "docketNumber": "240502513",
+    "caseName": "Chawla Vs City Motors Philadelphia, Llc Etal",
+    "trialDate": "2026-06-23",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "washoe-0065",
+    "docketNumber": "CV24-02790",
+    "caseName": "Anna Hutha Vs Robin Singh, Etal",
+    "trialDate": "2026-06-23",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Scott Freeman",
+    "department": "9",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0071",
+    "docketNumber": "CV24-02001",
+    "caseName": "Kelly Coffey Vs Tyrolian Village Assn.",
+    "trialDate": "2026-06-23",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Kathleen Sigurdson",
+    "department": "10",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0107",
+    "docketNumber": "250500841",
+    "caseName": "Pope Vs Germantown Bakery & Restaurant Etal",
+    "trialDate": "2026-06-24",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0108",
+    "docketNumber": "241201647",
+    "caseName": "Ramos Vs Rosado Etal",
+    "trialDate": "2026-06-25",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Arbitration Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0109",
+    "docketNumber": "250201484",
+    "caseName": "Jkoontz Investment Group Pllc Vs Craighead Etal",
+    "trialDate": "2026-06-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0110",
+    "docketNumber": "250303695",
+    "caseName": "Gsd Properties, Llc Vs All Unknown Occupants Of 57",
+    "trialDate": "2026-06-26",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Rent, Lease & Ejectment",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0111",
+    "docketNumber": "211201264",
+    "caseName": "Serrato Etal Vs Ferriera-Rocha Etal",
+    "trialDate": "2026-06-29",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0112",
+    "docketNumber": "230502874",
+    "caseName": "Mcmoran Etal Vs Romero Etal",
+    "trialDate": "2026-06-29",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0113",
+    "docketNumber": "230800385",
+    "caseName": "Wood Etal Vs Kepler, Md Etal",
+    "trialDate": "2026-06-29",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0114",
+    "docketNumber": "240800813",
+    "caseName": "Guo Etal Vs Friedberg",
+    "trialDate": "2026-06-29",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Expedited, Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0115",
+    "docketNumber": "241100461",
+    "caseName": "Greene Vs Southeastern Pennsylvania Transportation",
+    "trialDate": "2026-06-29",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0116",
+    "docketNumber": "250102070",
+    "caseName": "Weeks Vs Avagyan Etal",
+    "trialDate": "2026-06-29",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "washoe-0019",
+    "docketNumber": "CV24-02330",
+    "caseName": "Victoria Perez Etal Vs James Mclinden Etal",
+    "trialDate": "2026-06-29",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Tammy Riggs",
+    "department": "3",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0020",
+    "docketNumber": "CV24-02199",
+    "caseName": "Meghan Catudan Vs Truckee Meadows Wa Etal",
+    "trialDate": "2026-06-29",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Tammy Riggs",
+    "department": "3",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0043",
+    "docketNumber": "CV24-01901",
+    "caseName": "Courtney Collins Vs Walmart, Inc.",
+    "trialDate": "2026-06-29",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Egan Walker",
+    "department": "7",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0117",
+    "docketNumber": "240201401",
+    "caseName": "Mohamed Vs Medical Real Estate Llc",
+    "trialDate": "2026-06-30",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0118",
+    "docketNumber": "250501105",
+    "caseName": "Oliver Vs Thomas",
+    "trialDate": "2026-06-30",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0119",
+    "docketNumber": "250503644",
+    "caseName": "In Re: Appeal Of Ratanaprasatporn, John",
+    "trialDate": "2026-06-30",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Agency Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0120",
+    "docketNumber": "230502868",
+    "caseName": "Hlushmanyuk Vs Mayfair Operator Llc Etal",
+    "trialDate": "2026-07-06",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0121",
+    "docketNumber": "230900348",
+    "caseName": "State Farm Fire & Casualty Co. Vs First Service Re",
+    "trialDate": "2026-07-06",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0122",
+    "docketNumber": "231200107",
+    "caseName": "Aloia Vs Gibson Etal",
+    "trialDate": "2026-07-06",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0123",
+    "docketNumber": "231202394",
+    "caseName": "Csaa General Insurance Company A/S/O Michael Spola",
+    "trialDate": "2026-07-06",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0124",
+    "docketNumber": "231202701",
+    "caseName": "Greater New York Insurance Co. A/S/O One Riverside",
+    "trialDate": "2026-07-06",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0125",
+    "docketNumber": "231202777",
+    "caseName": "Privilege Underwriters Reciprocal Exchange A/S/O J",
+    "trialDate": "2026-07-06",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0126",
+    "docketNumber": "240100101",
+    "caseName": "Chubb National Insurance Company Etal Vs Intech Co",
+    "trialDate": "2026-07-06",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0127",
+    "docketNumber": "240201204",
+    "caseName": "J.K. Etal Vs Lehigh Valley Hospital- Hazleton Etal",
+    "trialDate": "2026-07-06",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0128",
+    "docketNumber": "250401958",
+    "caseName": "Najera Vs Olavarria Contracting, Llc Etal",
+    "trialDate": "2026-07-06",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "washoe-0008",
+    "docketNumber": "CV24-01963",
+    "caseName": "Randle Hawke Etal Vs Pebble Creek Ii Inc Etal",
+    "trialDate": "2026-07-06",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Drakulich",
+    "department": "1",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0009",
+    "docketNumber": "CV24-01839",
+    "caseName": "Constant Johnson Vs Victoria Jacinto Hernandez",
+    "trialDate": "2026-07-06",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Drakulich",
+    "department": "1",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0010",
+    "docketNumber": "CV24-00127",
+    "caseName": "Paul Johnston Vs Nugget Sparks Llc Dba",
+    "trialDate": "2026-07-06",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Drakulich",
+    "department": "1",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0044",
+    "docketNumber": "CV24-02436",
+    "caseName": "Jesus Jose Martinez Vs Richard Clark",
+    "trialDate": "2026-07-06",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Egan Walker",
+    "department": "7",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0072",
+    "docketNumber": "CV24-01827",
+    "caseName": "Walker Roberson Jr Vs Carol M. Macharg Etal",
+    "trialDate": "2026-07-06",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Sigurdson",
+    "department": "10",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0073",
+    "docketNumber": "CV24-02359",
+    "caseName": "Y. Sevilla-Santoyo Etal Vs A. Hettrick Etal",
+    "trialDate": "2026-07-06",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Sigurdson",
+    "department": "10",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0081",
+    "docketNumber": "CV23-02385",
+    "caseName": "Stephen A. Newell Vs Walter Ochoa, Et Al",
+    "trialDate": "2026-07-06",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "David Hardy",
+    "department": "15",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0082",
+    "docketNumber": "CV25-00479",
+    "caseName": "Blanca D. Mazariego Etal Vs State Farm Maic",
+    "trialDate": "2026-07-06",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "David Hardy",
+    "department": "15",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0083",
+    "docketNumber": "CV24-01898",
+    "caseName": "Suzanne Moreno Vs Marnell Gaming, Llc",
+    "trialDate": "2026-07-06",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "David Hardy",
+    "department": "15",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0129",
+    "docketNumber": "190801508",
+    "caseName": "Thomas P. Carney, Inc. Vs Nelson Worldwide Holding",
+    "trialDate": "2026-07-07",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Complex, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0130",
+    "docketNumber": "201200207",
+    "caseName": "Tutor Perini Building Corp. Vs Chestlen Developmen",
+    "trialDate": "2026-07-07",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Complex, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0131",
+    "docketNumber": "210100645",
+    "caseName": "Chestlen Development, Lp Vs Tutor Perini Building",
+    "trialDate": "2026-07-07",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Complex, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0132",
+    "docketNumber": "241102846",
+    "caseName": "In Re: Appeal Of G R Partners I Lp",
+    "trialDate": "2026-07-07",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Agency Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0133",
+    "docketNumber": "201000826",
+    "caseName": "Abdeljaber Vs Siam Etal",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Complex, Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0134",
+    "docketNumber": "221200191",
+    "caseName": "Kurman Vs Lankenau Medical Center Etal",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0135",
+    "docketNumber": "230101782",
+    "caseName": "Berlacher Etal Vs Trustees Of The University Of Pe",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0136",
+    "docketNumber": "230303436",
+    "caseName": "Liriano Rodriguez Vs Thomas Jefferson University H",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0137",
+    "docketNumber": "230700201",
+    "caseName": "Truesdale Vs Lankenau Medical Center Etal",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0138",
+    "docketNumber": "230700292",
+    "caseName": "Khalil Vs Pier 3 Condominium Association,  Its Boa",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0139",
+    "docketNumber": "230702496",
+    "caseName": "Lloyd Vs Deer Meadows Operating Llc Etal",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0140",
+    "docketNumber": "230900987",
+    "caseName": "Rastelli Etal Vs Maxim Crane Works, Lp Etal",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0141",
+    "docketNumber": "240601354",
+    "caseName": "Wallace Vs Resources For Human Development, Inc. E",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0142",
+    "docketNumber": "241202076",
+    "caseName": "Givens Vs Honeywell International, Inc., As Succes",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Mass Tort",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0143",
+    "docketNumber": "250501318",
+    "caseName": "The Continental Insurance Company As Subrogee Of 2",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0144",
+    "docketNumber": "251002165",
+    "caseName": "Privilege Underwriters Reciprocal Exchange As Subr",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0145",
+    "docketNumber": "240702525",
+    "caseName": "Nationstar Mortgage Llc Vs Tran",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Mortgage Foreclosure",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0146",
+    "docketNumber": "240802252",
+    "caseName": "Freedom Mortgage Corp Vs Tran",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Mortgage Foreclosure",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0147",
+    "docketNumber": "230501806",
+    "caseName": "Bochetto Vs Beagle Media, Llc",
+    "trialDate": "2026-07-13",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "washoe-0011",
+    "docketNumber": "CV23-02073",
+    "caseName": "Crystal Phillips Vs Roland Goode, Md, Et Al",
+    "trialDate": "2026-07-13",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Drakulich",
+    "department": "1",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0012",
+    "docketNumber": "CV25-00212",
+    "caseName": "Branden Souders Vs Steven H. Enos Et Al",
+    "trialDate": "2026-07-13",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Drakulich",
+    "department": "1",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0021",
+    "docketNumber": "CV25-00378",
+    "caseName": "Jessica Flowers Vs Oscar Segovia Rivas Etal",
+    "trialDate": "2026-07-13",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Tammy Riggs",
+    "department": "3",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0022",
+    "docketNumber": "CV19-01230",
+    "caseName": "Roger Barnes Etal Vs Scotch Pine Hoa Etal",
+    "trialDate": "2026-07-13",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Tammy Riggs",
+    "department": "3",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0056",
+    "docketNumber": "CV25-00882",
+    "caseName": "Loretta Bellig Vs Ra Reno Airport Corp. Etal",
+    "trialDate": "2026-07-13",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0057",
+    "docketNumber": "CV25-00137",
+    "caseName": "Jane Doe Vs Martin Amba Dba, Etal",
+    "trialDate": "2026-07-13",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0058",
+    "docketNumber": "CV24-00977",
+    "caseName": "Nv Packaging, Inc Vs Gregory Sanguinette Etal (B8)",
+    "trialDate": "2026-07-13",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Non Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0059",
+    "docketNumber": "CV23-01832",
+    "caseName": "Cons: Emily G. Pinheiro Vs Kathleen Fralick",
+    "trialDate": "2026-07-13",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0060",
+    "docketNumber": "CV22-02104",
+    "caseName": "D. Damonte Vopat Vs Mcdonald, Carano Llp",
+    "trialDate": "2026-07-13",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0061",
+    "docketNumber": "CV22-01757",
+    "caseName": "Richard Cox Vs Griffin Ent Llc Dba Jiffy Lube",
+    "trialDate": "2026-07-13",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Barry Breslow",
+    "department": "8",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0084",
+    "docketNumber": "CV24-00984",
+    "caseName": "Michael Mcvey Vs Justin Voss Md, Et Al",
+    "trialDate": "2026-07-13",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "David Hardy",
+    "department": "15",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0148",
+    "docketNumber": "240800490",
+    "caseName": "Customers Bank Vs Pressley",
+    "trialDate": "2026-07-14",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Mortgage Foreclosure",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0149",
+    "docketNumber": "250401184",
+    "caseName": "Hunting Park Plaza Assoc Vs Kim Etal",
+    "trialDate": "2026-07-14",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Rent, Lease & Ejectment",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0150",
+    "docketNumber": "250300405",
+    "caseName": "In Re: Appeal Of Besson, Julia",
+    "trialDate": "2026-07-14",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Agency Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0151",
+    "docketNumber": "250400229",
+    "caseName": "In Re: Appeal Of Tesfagabir, Tekle",
+    "trialDate": "2026-07-14",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Agency Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0152",
+    "docketNumber": "250400233",
+    "caseName": "In Re: Appeal Of Tesfagabir, Tekle",
+    "trialDate": "2026-07-14",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Agency Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0153",
+    "docketNumber": "250501582",
+    "caseName": "In Re: Appeal Of Tesfagabir, Tekle",
+    "trialDate": "2026-07-14",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Agency Appeal",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0154",
+    "docketNumber": "240200923",
+    "caseName": "Ira Development Etal Vs Gf University Properties",
+    "trialDate": "2026-07-15",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0155",
+    "docketNumber": "230500825",
+    "caseName": "Matthews Etal Vs Clark Etal",
+    "trialDate": "2026-07-17",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0156",
+    "docketNumber": "2105M0005",
+    "caseName": "Real Construction Group, Llc Vs Us Capital Investm",
+    "trialDate": "2026-07-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Expedited, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0157",
+    "docketNumber": "210901201",
+    "caseName": "Real Construction Group Llc Vs Pelco Builders, Inc",
+    "trialDate": "2026-07-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0158",
+    "docketNumber": "250202686",
+    "caseName": "Phila Church Of God In Christ Vs Zion Fellowship",
+    "trialDate": "2026-07-20",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "washoe-0045",
+    "docketNumber": "CV23-02229",
+    "caseName": "Debra Bement Vs K Sasse Surg. Assocs, Et Al",
+    "trialDate": "2026-07-20",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Egan Walker",
+    "department": "7",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0046",
+    "docketNumber": "CV24-02815",
+    "caseName": "Jesse P. Lane Iii Vs Jennifer L. J-Gutierrez",
+    "trialDate": "2026-07-20",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Egan Walker",
+    "department": "7",
+    "status": "settled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0074",
+    "docketNumber": "CV23-02124",
+    "caseName": "L. Kennebrew Vs Park On Virginia Apts, Et Al",
+    "trialDate": "2026-07-20",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Sigurdson",
+    "department": "10",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0075",
+    "docketNumber": "CV23-02124",
+    "caseName": "L. Kennebrew Vs Park On Virginia Apts, Et Al",
+    "trialDate": "2026-07-20",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Sigurdson",
+    "department": "10",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0076",
+    "docketNumber": "CV24-01766",
+    "caseName": "Constance Monda Etal Vs Yosef Mustafanos",
+    "trialDate": "2026-07-20",
+    "trialTime": "12:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "Kathleen Sigurdson",
+    "department": "10",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0085",
+    "docketNumber": "CV25-00197",
+    "caseName": "Rushelle Meadows Vs G&R Wrles Group Llc Etal",
+    "trialDate": "2026-07-20",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "David Hardy",
+    "department": "15",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0086",
+    "docketNumber": "CV23-01106",
+    "caseName": "J & K Levin Vs Zaid R. Schireman Et Al",
+    "trialDate": "2026-07-20",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "David Hardy",
+    "department": "15",
+    "status": "scheduled",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "washoe-0087",
+    "docketNumber": "CV21-01282",
+    "caseName": "Cheyenne Zivkovic Vs Alycia Fisher, Et Al",
+    "trialDate": "2026-07-20",
+    "trialTime": "09:00",
+    "court": {
+      "id": "washoe-district",
+      "name": "Second Judicial District Court \u2013 Washoe County",
+      "shortName": "Washoe Co. District",
+      "type": "state",
+      "state": "NV"
+    },
+    "eventType": "Trial - Jury",
+    "judge": "David Hardy",
+    "department": "15",
+    "status": "vacated",
+    "sourceFile": "Washoe County Nevada 5_20_26.xlsx"
+  },
+  {
+    "id": "phila-0159",
+    "docketNumber": "220803019",
+    "caseName": "Disalvio Vs Hospital Of The University Of Pennsylv",
+    "trialDate": "2026-07-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0160",
+    "docketNumber": "221200898",
+    "caseName": "Pera Etal Vs Mid Atlantic Retina Etal",
+    "trialDate": "2026-07-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0161",
+    "docketNumber": "230802046",
+    "caseName": "Onasch Vs Chaudhry Etal",
+    "trialDate": "2026-07-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0162",
+    "docketNumber": "230901924",
+    "caseName": "Mccarthy Etal Vs Compass Home Builders, Inc. Etal",
+    "trialDate": "2026-07-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0163",
+    "docketNumber": "231001445",
+    "caseName": "O'Connor Etal Vs Difabio'S Etal",
+    "trialDate": "2026-07-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0164",
+    "docketNumber": "241003634",
+    "caseName": "Lai Vs Huang",
+    "trialDate": "2026-07-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0165",
+    "docketNumber": "191204329",
+    "caseName": "Offit Kurman, P.A. Vs S.G.Preston Company",
+    "trialDate": "2026-07-27",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0166",
+    "docketNumber": "2405M0005",
+    "caseName": "A Squared Construction Llc Vs 21 E Columbia Ave In",
+    "trialDate": "2026-07-29",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Expedited, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0167",
+    "docketNumber": "200500329",
+    "caseName": "Mccormack Etal Vs Springfield Hospital Etal",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0168",
+    "docketNumber": "201201242",
+    "caseName": "Shaub Etal Vs United States Steel Corporation Etal",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0169",
+    "docketNumber": "210801388",
+    "caseName": "Lutz Vs Fmc Corporation Etal",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Mass Tort",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0170",
+    "docketNumber": "220602468",
+    "caseName": "Grove Etal Vs The Renfrew Center Etal",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0171",
+    "docketNumber": "230300617",
+    "caseName": "Arnold Etal Vs Chalfin Etal",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0172",
+    "docketNumber": "230402963",
+    "caseName": "Piacentini Etal Vs The Bryn Mawr Hospital Etal",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0173",
+    "docketNumber": "230500604",
+    "caseName": "Bunch Vs Thomas Jefferson University Hospitals, In",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0174",
+    "docketNumber": "230702338",
+    "caseName": "Patel Etal Vs Albright Etal",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0175",
+    "docketNumber": "240200335",
+    "caseName": "Tennesen Vs Nazareth Hospital Etal",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0176",
+    "docketNumber": "240500218",
+    "caseName": "Albright Vs Iron Oven Llc Etal",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0177",
+    "docketNumber": "240801481",
+    "caseName": "Grove Vs The Renfrew Center Of Pennsylvania, Llc E",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0178",
+    "docketNumber": "240900991",
+    "caseName": "Wolf Etal Vs 1248 S. 20Th Llc Etal",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0179",
+    "docketNumber": "250400935",
+    "caseName": "Norman Vs The Loft'S 2601 Lp",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0180",
+    "docketNumber": "250601691",
+    "caseName": "Brown Vs Bokano",
+    "trialDate": "2026-08-03",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0181",
+    "docketNumber": "250203155",
+    "caseName": "Flores Vs Dominguez Etal",
+    "trialDate": "2026-08-05",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Non Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0182",
+    "docketNumber": "220801851",
+    "caseName": "Williams Etal Vs Ho Etal",
+    "trialDate": "2026-08-10",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Commerce - Standard, Jury",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0183",
+    "docketNumber": "230301572",
+    "caseName": "Nixon Vs Tony Depaul Partners, Inc.,   D/B/A Tony",
+    "trialDate": "2026-08-10",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0184",
+    "docketNumber": "230700627",
+    "caseName": "Robinson Etal Vs Albert Einstein Medical Center Et",
+    "trialDate": "2026-08-10",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0185",
+    "docketNumber": "231201602",
+    "caseName": "Santos Vs Adidas North America, Inc Etal",
+    "trialDate": "2026-08-10",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0186",
+    "docketNumber": "240300422",
+    "caseName": "Pashak Etal Vs Teixeira Etal",
+    "trialDate": "2026-08-10",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0187",
+    "docketNumber": "241100894",
+    "caseName": "Community Loan Servicing Vs Strong Arm Properties",
+    "trialDate": "2026-08-11",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Mortgage Foreclosure",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0188",
+    "docketNumber": "250500292",
+    "caseName": "Athene Annuity And Life Co Vs Homes By Vanzant",
+    "trialDate": "2026-08-11",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Non Jury Expedited",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0189",
+    "docketNumber": "240401078",
+    "caseName": "Joyce Etal Vs Cvs Pharmacy, Inc. Etal",
+    "trialDate": "2026-08-14",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0190",
+    "docketNumber": "180203219",
+    "caseName": "Melchiorre Vs Haileab Etal",
+    "trialDate": "2026-08-17",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0191",
+    "docketNumber": "230202191",
+    "caseName": "Rohana Etal Vs Reconstructive Orthopaedic Associat",
+    "trialDate": "2026-08-17",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0192",
+    "docketNumber": "230502811",
+    "caseName": "Adams Vs Burns Etal",
+    "trialDate": "2026-08-17",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0193",
+    "docketNumber": "230800112",
+    "caseName": "Morgan Vs Chaudhry, M.D. Etal",
+    "trialDate": "2026-08-17",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0194",
+    "docketNumber": "240203085",
+    "caseName": "Spitkovskaya Etal Vs Mollanazar Etal",
+    "trialDate": "2026-08-17",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0195",
+    "docketNumber": "240701375",
+    "caseName": "Cuevas Etal Vs Double Reel Investments Inc. Etal",
+    "trialDate": "2026-08-17",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0196",
+    "docketNumber": "240802103",
+    "caseName": "Bonnette Vs St. Mary Medical Center Etal",
+    "trialDate": "2026-08-17",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0197",
+    "docketNumber": "241100687",
+    "caseName": "Keenan Etal Vs Aminur Etal",
+    "trialDate": "2026-08-17",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0198",
+    "docketNumber": "240502668",
+    "caseName": "Drucquer Vs Montgomery Street, Llc Etal",
+    "trialDate": "2026-08-17",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Standard",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  },
+  {
+    "id": "phila-0199",
+    "docketNumber": "230402954",
+    "caseName": "Brinkley Vs Chestnut Hill Hospital, Etal",
+    "trialDate": "2026-08-18",
+    "court": {
+      "id": "phila-common-pleas",
+      "name": "Philadelphia Court of Common Pleas",
+      "shortName": "Phila. C.C.P.",
+      "type": "state",
+      "state": "PA"
+    },
+    "eventType": "Major Jury-Complex",
+    "status": "scheduled",
+    "sourceFile": "Philadelphia Court of Common Pleas - Civil Court Listings Results.csv"
+  }
+]
